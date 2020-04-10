@@ -1,0 +1,4 @@
+Observable Trends:
+1. There is a strong positive correlation between mouse weight and their respective tumor volume, in the Capomulin regimen.
+2. The Capomullin regimen had the most Timepoint data, therefore the mice, as a whole, in that regimen lived the longest.
+3. The Ramicane regimen generated the lowest median tumor volume, across all regimens.
